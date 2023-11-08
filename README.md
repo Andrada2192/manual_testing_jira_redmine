@@ -51,7 +51,14 @@
 
             3.7 Bugs report
 
-            3.8 Test completion report  
+            3.8 Test completion report
+
+
+### 1.2 Functionalities in scope
+  - All the features of My account module which were defined in Redmine business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
+  - The Redmine Web application will be tested on latest versions of Mozilla, Chrome, IE.
+
+
  
             
            
