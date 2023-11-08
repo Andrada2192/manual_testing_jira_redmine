@@ -54,6 +54,12 @@
             3.8 Test completion report
 
 
+### 1.1 Project Objective
+We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+Application under test: https://www.redmine.org/ 
+Documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+
+
 ### 1.2 Functionalities in scope
   - All the features of My account module which were defined in Redmine business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
   - The Redmine Web application will be tested on latest versions of Mozilla, Chrome, IE.
