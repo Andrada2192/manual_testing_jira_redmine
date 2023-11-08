@@ -76,9 +76,9 @@ Documentation: https://www.redmine.org/guide
 
 
 ### 1.3 Functionalities and tests out of scope
-  - All the features that are not under Admin HR  module 
+  - All the features that are not under My account  module 
   - Non-functional testing like stress, performance is beyond scope of this project.
-  - No QA support for mobile applications developed. Only web applications will be tested.
+  - No QA support for mobile applications developed, only web applications will be tested.
   - Automation testing is beyond scope.
 
  
