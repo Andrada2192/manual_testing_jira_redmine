@@ -56,8 +56,10 @@
 
 ### 1.1 Project Objective
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+
 Application under test: https://www.redmine.org/ 
-Documentation: https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf 
+
+Documentation: https://www.redmine.org/guide
 
 
 ### 1.2 Functionalities in scope
