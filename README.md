@@ -54,6 +54,12 @@
             3.8 Test completion report
 
 
+### 1 Introduction
+Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+
+Redmine is open source and released under the terms of the GNU General Public License v2 (GPL).
+
+
 ### 1.1 Project Objective
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
