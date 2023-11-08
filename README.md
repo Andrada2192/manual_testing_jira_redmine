@@ -57,7 +57,9 @@
 ### 1.1 Project Objective
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
+
 Application under test: https://www.redmine.org/ 
+
 
 Documentation: https://www.redmine.org/guide
 
