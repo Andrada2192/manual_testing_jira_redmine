@@ -9,19 +9,9 @@
 
 
 ### Table of Content:
-1. Introduction
-   1. Project objective
-   2. Functionalities in scope
-   3. Functionalities and tests out of scope
-2. Test process
-   1. Test planning
-   2. Test analysis
-   3. Test design
-   4. Test implementation
-   5. Test execution
-   6. Test closure
-   7. Test monitoring and control
 
 1. Introduction
     
             1.1 Project Objective 
+            
+            1.2 Functionalities in scope
