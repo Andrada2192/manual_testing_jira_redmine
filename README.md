@@ -75,6 +75,12 @@ Documentation: https://www.redmine.org/guide
   - The Redmine Web application will be tested on latest versions of Mozilla, Chrome, IE.
 
 
+### 1.3 Functionalities and tests out of scope
+  - All the features that are not under Admin HR  module 
+  - Non-functional testing like stress, performance is beyond scope of this project.
+  - No QA support for mobile applications developed. Only web applications will be tested.
+  - Automation testing is beyond scope.
+
  
             
            
