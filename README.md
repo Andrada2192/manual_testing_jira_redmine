@@ -83,6 +83,11 @@ Documentation: https://www.redmine.org/guide
 
  
 ### 2 Test process
+### 2.1 Test Planning
+
+|  |    | 
+| :-----: | :---: |
+| Andrada - Tester |  will test: all features from My account module: Information, Email notifications, Email address, Preferences and Password | 
 
 
 ### 3 Test deliverables
