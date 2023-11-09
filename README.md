@@ -112,6 +112,39 @@ Documentation: https://www.redmine.org/guide
 - new browser might not be supported
 
 
+### 2.2 Test analysis 
+Analyze the business requirements to make sure that we have all the details for creating the test conditions 
+Write test conditions (What?)
+we plan on running a full regression test on the current version
+
+
+### 2.3 Test design
+all the test cases are written and reviewed 
+All test cases will be created in Jira as test management tool
+
+
+### 2.4 Test implementation
+all the test data is available and reviewed (an account with Admin Role was created)
+this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
+Test suites are created (Cycle Summary was created)
+
+
+### 2.5 Test execution
+the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera and Brave browsers
+Bugs will be created based on the failed test cases 
+The full regression testing will be done after new application changes 
+Retesting will be done after a bug is fixed 
+
+
+### 2.6 Test closure
+100% tests were executed and 90% of them are passed 
+no Critical issues have Open status
+
+
+### 2.7 Test monitoring and control
+Various periodic reports will be generated to reflect the current status of testing process, in case of major problems control measures could be taken. 
+
+
 
 ### 3 Test deliverables
 ### 3.1 Test plan
