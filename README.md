@@ -86,9 +86,8 @@ Documentation: https://www.redmine.org/guide
 
 
 ### 3 Test deliverables
-
-
 ### 3.1 Test plan
+[Test Plan]()
 
 
 ### 3.2 Test conditions 
@@ -97,8 +96,12 @@ Documentation: https://www.redmine.org/guide
    
 [Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/Test%20Conditions%20Jira%20RedmineApp%20.pdf)
 
+
+
 ### 3.3 Test cases
 [Test Cases](https://github.com/Andrada2192/RedmineProject/blob/main/AllTestCases.pdf)
+
+
 
 ### 3.4 Daily test summary report
 Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintre care 4 failed.
