@@ -94,7 +94,7 @@ Documentation: https://www.redmine.org/guide
 ### 3.2 Test conditions 
  - we will use prod environment
  - testing using new accounts or existing account is necessary
-[Test Conditions]()
+[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/Test%20Conditions%20Jira%20RedmineApp%20.pdf)
 
 ### 3.3 Test cases
 [Test Cases](https://github.com/Andrada2192/RedmineProject/blob/main/AllTestCases.pdf)
