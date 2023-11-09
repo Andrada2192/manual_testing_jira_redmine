@@ -92,8 +92,8 @@ Documentation: https://www.redmine.org/guide
 
 
 ### 3.2 Test conditions 
- -  we will use prod environment
- - testing using new accounts and older account is necessary
+ - we will use prod environment
+ - testing using new accounts or existing account is necessary
 
 
 ### 3.3 Test cases
