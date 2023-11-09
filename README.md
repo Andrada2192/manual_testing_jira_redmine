@@ -98,3 +98,7 @@ Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintr
 
 ### 3.6 Test case results
 [Test Case Results](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+
+
+### 3.8 Test completion report
+![Test Completion](https://github.com/Andrada2192/RedmineProject/blob/main/TestExecution.png)
