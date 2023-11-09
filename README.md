@@ -114,7 +114,7 @@ Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintr
 
 
 ### 3.7 Bugs report
-
+[Bugs Report](https://github.com/Andrada2192/RedmineProject/blob/main/BugsReport.pdf)
 
 ### 3.8 Test completion report
 ![Test Completion](https://github.com/Andrada2192/RedmineProject/blob/main/TestExecution.png)
