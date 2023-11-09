@@ -87,6 +87,18 @@ Documentation: https://www.redmine.org/guide
 
 ### 3 Test deliverables
 
+
+### 3.1 Test plan
+
+
+### 3.2 Test conditions 
+ -  we will use prod environment
+ - testing using new accounts and older account is necessary
+
+
+### 3.3 Test cases
+
+
 ### 3.4 Daily test summary report
 Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintre care 4 failed.
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/386886359_638780408179584_6632357104543974468_n.png)
