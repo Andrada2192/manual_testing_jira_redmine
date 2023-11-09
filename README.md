@@ -102,3 +102,10 @@ Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintr
 
 ### 3.8 Test completion report
 ![Test Completion](https://github.com/Andrada2192/RedmineProject/blob/main/TestExecution.png)
+
+
+### 3.9 Schedule
+ - we have 10 days of testing
+ - we have 30 test cases 
+ - in order to finish the regression run we would need to run an ~ of 3 tests/day
+
