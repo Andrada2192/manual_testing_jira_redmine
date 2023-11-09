@@ -97,7 +97,7 @@ Documentation: https://www.redmine.org/guide
 
 
 ### 3.3 Test cases
-
+[Test Cases](https://github.com/Andrada2192/RedmineProject/blob/main/AllTestCases.pdf)
 
 ### 3.4 Daily test summary report
 Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintre care 4 failed.
