@@ -85,6 +85,7 @@ Documentation: https://www.redmine.org/guide
 ### 2 Test process
 
 
+### 3 Test deliverables
 
 ### 3.4 Daily test summary report
 Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintre care 4 failed.
