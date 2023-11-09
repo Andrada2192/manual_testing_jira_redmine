@@ -105,20 +105,25 @@ Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintr
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/380826740_876341894084574_3891748152558190536_n.png)
 
 
+
 ### 3.5 Traceability matrix
 ![Traceability Matrix](https://github.com/Andrada2192/RedmineProject/blob/main/TraceabilityMatrix.png)
            
 
+
 ### 3.6 Test case results
-[Test Case Results](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
+[Test Case Results](https://github.com/Andrada2192/RedmineProject/blob/main/TestCaseResults.pdf)
+
 
 
 ### 3.7 Bugs report
 [Bugs Report](https://github.com/Andrada2192/RedmineProject/blob/main/BugsReport.pdf)
 
 
+
 ### 3.8 Test completion report
 ![Test Completion](https://github.com/Andrada2192/RedmineProject/blob/main/TestExecution.png)
+
 
 
 ### 3.9 Schedule
