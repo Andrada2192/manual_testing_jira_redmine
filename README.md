@@ -72,13 +72,13 @@ Documentation: https://www.redmine.org/guide
 
 ### 1.2 Functionalities in scope
   - All the features of My account module which were defined in Redmine business requirements will be tested using the following testing types: functional testing, GUI testing, API testing. 
-  - The Redmine Web application will be tested on latest versions of Mozilla, Chrome, IE.
+  - The Redmine Web application will be tested on latest versions of Chrome and IE.
 
 
 ### 1.3 Functionalities and tests out of scope
   - All the features that are not under My account  module 
-  - Non-functional testing like stress, performance is beyond scope of this project.
-  - No QA support for mobile applications developed, only web applications will be tested.
+  - Non-functional testing like stress, performance is beyond scope of this project
+  - No QA support for mobile applications developed, only web applications will be tested
   - Automation testing is beyond scope.
 
  
