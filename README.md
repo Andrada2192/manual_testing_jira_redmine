@@ -6,7 +6,7 @@
 | Date | Description   | Author   | Comments |
 | :-----: | :---: | :---: | :---: |
 | 05.09.2023 | Test Plan for version 1.0   | Andrada Pricop   | draft test plan |
-| 08.11.2023 | v1.1  | Andrada Pricop   | Added more details for Test Process |
+| 09.10.2023 | v1.1  | Andrada Pricop   | Added more details for Test Process |
 
 
 ### Table of Content:
