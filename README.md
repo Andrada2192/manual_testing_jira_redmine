@@ -87,9 +87,10 @@ Documentation: https://www.redmine.org/guide
 
 
 ### 3.4 Daily test summary report
-![Test image load](https://github.com/Andrada2192/RedmineProject/blob/main/386886359_638780408179584_6632357104543974468_n.png)
-![Test image load](https://github.com/Andrada2192/RedmineProject/blob/main/380826740_876341894084574_3891748152558190536_n.png)
+![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/386886359_638780408179584_6632357104543974468_n.png)
+![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/380826740_876341894084574_3891748152558190536_n.png)
 
 
+### 3.5 Traceability matrix
 
            
