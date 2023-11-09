@@ -82,5 +82,12 @@ Documentation: https://www.redmine.org/guide
   - Automation testing is beyond scope.
 
  
-            
+### 2 Test process
+
+
+
+### 3.4 Daily test summary report
+![Test image load]()
+
+
            
