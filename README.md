@@ -132,6 +132,6 @@ Raportul generat in data de 11/09/2023 arata rularea a 12 de test case-uri dintr
 
 ### 3.9 Schedule
  - we have 3 days of testing
- - we have 21 test cases 
+ - we have 22 test cases 
  - in order to finish the regression run we would need to run an ~ of 7 tests/day
 
