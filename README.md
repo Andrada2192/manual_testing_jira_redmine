@@ -90,6 +90,29 @@ Documentation: https://www.redmine.org/guide
 | Andrada - Tester |  will test: all features from My account module: Information, Email notifications, Email address, Preferences and Password | 
 
 
+#### Entry criteria:
+- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+- testing environment is up and running
+- roles needed for the project are allocated 
+- functional specifications are defined
+- test data is prepared
+
+#### Exit criteria:
+- 100% tests from Functional testing were wxecuted and 58.33% are passed
+- 100% tests from GUI testing were executed and 80% are passed
+- some Critical issues have Open status
+- update tests are 100% passed 
+- exploratory testing was performed on My account module
+
+#### Risks:
+- stability risks (crashes, disconnects, etc)
+- IE browser might have performance issues
+- the web page pagination could be impacted when opened on mobile devices
+- stress conditions might impact the web application
+- new browser might not be supported
+
+
+
 ### 3 Test deliverables
 ### 3.1 Test plan
 [Test Plan]()
