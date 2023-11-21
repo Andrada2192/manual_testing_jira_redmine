@@ -120,8 +120,8 @@ we plan on running a full regression test on the current version
 
 
 ### 2.3 Test design
-all the test cases are written and reviewed 
-All test cases will be created in Jira as test management tool
+-all the test cases are written and reviewed 
+-all test cases will be created in Jira as test management tool
 
 
 ### 2.4 Test implementation
@@ -149,7 +149,7 @@ Various periodic reports will be generated to reflect the current status of test
 
 ### 3 Test deliverables
 ### 3.1 Test plan
-[Test Plan](https://github.com/Andrada2192/RedmineProject/blob/main/TEST%20PLAN%20REDMINE.docx)
+[Test Plan]()
 
 
 ### 3.2 Test conditions 
