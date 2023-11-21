@@ -6,7 +6,8 @@
 | Date | Description   | Author   | Comments |
 | :-----: | :---: | :---: | :---: |
 | 05.09.2023 | Test Plan for version 1.0   | Andrada Pricop   | draft test plan |
-| 09.10.2023 | v1.1  | Andrada Pricop   | Added more details for Test Process |
+| 09.21.2023 | v1.1  | Andrada Pricop   | Added more details for Test Process |
+| 10.18.2023 | v1.1  | Andrada Pricop   | Added the final version for bugs report |
 
 
 ### Table of Content:
@@ -130,7 +131,7 @@ Test suites are created (Cycle Summary was created)
 
 
 ### 2.5 Test execution
-the tests will be executed on the following browsers: Chrome, Mozilla, IE if time will be available we will extend tests on Opera and Brave browsers
+the tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
 Bugs will be created based on the failed test cases 
 The full regression testing will be done after new application changes 
 Retesting will be done after a bug is fixed 
