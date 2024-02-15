@@ -121,6 +121,7 @@ we plan on running a full regression test on the current version
 
 ### 2.3 Test design
 -all the test cases are written and reviewed 
+
 -all test cases will be created in Jira as test management tool
 
 
