@@ -179,7 +179,7 @@ Various periodic reports will be generated to reflect the current status of test
 
 
 ### 3.5 Traceability matrix
-![Traceability Matrix](https://github.com/Andrada2192/RedmineProject/blob/main/TraceabilityMatrix.png)
+![Traceability Matrix](https://github.com/Andrada2192/RedmineProject/blob/main/traceability%20matrix.jfif)
            
 
 
