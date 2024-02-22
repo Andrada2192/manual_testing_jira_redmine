@@ -162,7 +162,7 @@ Various periodic reports will be generated to reflect the current status of test
 
 
 ### 3.3 Test cases
-[Test Cases](https://github.com/Andrada2192/RedmineProject/blob/main/AllTestCases.pdf)
+[Test Cases](https://github.com/Andrada2192/RedmineProject/blob/main/TestCases.pdf)
 
 
 
