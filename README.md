@@ -200,6 +200,6 @@ Various periodic reports will be generated to reflect the current status of test
 
 ### 3.9 Schedule
  - we have 3 days of testing
- - we have 22 test cases 
- - in order to finish the regression run we would need to run an ~ of 7 tests/day
+ - we have 18 test cases 
+ - in order to finish the regression run we would need to run 6 tests/day
 
