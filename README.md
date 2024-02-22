@@ -157,7 +157,7 @@ Various periodic reports will be generated to reflect the current status of test
  - we will use prod environment
  - testing using new accounts or existing account is necessary
    
-[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/Test%20Conditions%20Jira%20RedmineApp%20.pdf)
+[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/TestConditions.pdf)
 
 
 
