@@ -150,7 +150,6 @@ Various periodic reports will be generated to reflect the current status of test
 
 ### 3 Test deliverables
 ### 3.1 Test plan
-[Test Plan]()
 
 
 ### 3.2 Test conditions 
