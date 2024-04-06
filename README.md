@@ -107,11 +107,11 @@ Documentation: https://www.redmine.org/guide
 
 #### Risks:
 
-##### Product risk
+##### Product risks
 - stress conditions might impact the web application
 - new browser might not be supported
 
-##### Project risk
+##### Project risks
 - stability risks (crashes, disconnects, etc)
 - IE browser might have performance issues
 - the web page pagination could be impacted when opened on mobile devices
