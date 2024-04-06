@@ -123,6 +123,9 @@ Write test conditions (What?)
 we plan on running a full regression test on the current version
 
 
+[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/TestConditions.pdf)
+
+
 ### 2.3 Test design
 -all the test cases are written and reviewed 
 
