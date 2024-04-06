@@ -92,16 +92,20 @@ Documentation: https://www.redmine.org/guide
 
 
 #### Entry criteria:
-- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-- testing environment is up and running
-- roles needed for the project are allocated 
-- functional specifications are defined
-- test data is prepared
+-roles needed for the project are allocated: Ensures that the necessary team members are in place to carry out testing activities effectively 
+-functional specifications are defined: Provides clarity on what needs to be tested and guides the test planning and execution process
+-completion of the software development phase: Testing cannot begin until the software has been fully developed and is ready for testing
+-availability of the test environment: The testing environment, including hardware, software, and network configurations, must be set up and available for testing
+-availability of test data: Test data, including both input and expected output data, must be prepared and available for use in testing
+-approval of test plans and test cases: Test plans and test cases must be reviewed and approved before testing can begin to ensure they cover all necessary scenarios
+-resolution of critical defects: Any critical defects identified during previous testing phases must be resolved before testing can proceed
+-availability of test resources: Necessary resources, such as testing tools, personnel, and documentation, must be available and allocated for testing activities
+
 
 #### Exit criteria:
 - 100% tests from Functional testing were wxecuted and 58.33% are passed
 - 100% tests from GUI testing were executed and 80% are passed
-- some Critical issues have Open status
+- critical issues that were previously 'in progress' have now been resolved
 - update tests are 100% passed 
 - exploratory testing was performed on My account module
 
