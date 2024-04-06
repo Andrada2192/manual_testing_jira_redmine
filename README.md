@@ -207,9 +207,9 @@ Various periodic reports will be generated to reflect the current status of test
 ### 3.8 Test completion report
 ![Test Completion](https://github.com/Andrada2192/RedmineProject/blob/main/TestExecution.png)
 
-- GUI testing - 7 dintre cele 8 teste au statusul PASS(87.50%), unul având statusul FAIL(12.50%)​
+- GUI testing: 7 out of 8 tests passed (87.50%), with one test failing (12.50%).
 
-- Functional testing – 6 dintre cele 11 teste au statusul PASS(54.55%), 4 au statusul FAIL(36.36%), iar unul are statusul BLOCKED(9.09%)
+- Functional testing: 6 out of 11 tests passed (54.55%), 4 tests failed (36.36%), and one test was blocked (9.09%).
 
 In conclusion, GUI testing has a higher pass rate (87.50%) compared to functional testing (54.55% pass rate). Functional testing shows a significant number of failures (36.36%). This suggests a need for further attention to improve functional test effectiveness.
 
