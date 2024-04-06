@@ -106,11 +106,15 @@ Documentation: https://www.redmine.org/guide
 - exploratory testing was performed on My account module
 
 #### Risks:
+
+##### Product risk
+- stress conditions might impact the web application
+- new browser might not be supported
+
+##### Project risk
 - stability risks (crashes, disconnects, etc)
 - IE browser might have performance issues
 - the web page pagination could be impacted when opened on mobile devices
-- stress conditions might impact the web application
-- new browser might not be supported
 
 
 ### 2.2 Test analysis 
