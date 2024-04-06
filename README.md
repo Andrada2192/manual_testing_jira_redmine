@@ -139,10 +139,11 @@ Test suites are created (Cycle Summary was created)
 
 
 ### 2.5 Test execution
-the tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
-Bugs will be created based on the failed test cases 
-The full regression testing will be done after new application changes 
-Retesting will be done after a bug is fixed 
+All tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
+Completed GUI and functional testing
+Executed a number of 8 GUI tests, with the majority(7) resulting in a "pass" status, one of them having "fail" status
+Executed a number of 11 functional tests, 6 of them resulting in a "pass" status, 4 of them having "fail" status and one being blocked
+Bugs will be created based on the failed test cases and reported and are currently undergoing remediation. After their resolution, retesting and regression testing will be performed
 
 
 ### 2.6 Test closure
