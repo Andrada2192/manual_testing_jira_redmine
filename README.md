@@ -136,6 +136,17 @@ Risk Analysis - covers potential project and product risks that may arise during
 | Incompatibilitatea cu browserele ar putea duce la funcționarea necorespunzătoare a aplicației pe diverse platforme de navigare. |    | x   | 1 | 3 | 3 |
 | Posibile probleme de afișare a ecranului "Information" ar putea afecta experiența utilizatorului și ar putea necesita eforturi suplimentare pentru remediere. |   | x   | 3 | 5 | 15 |
 | Notificările de email nepotrivite ar putea genera confuzie sau disconfort utilizatorilor.​ |   | x   | 3 | 4 | 12 |
+| Preferințele neactualizate ale utilizatorilor ar putea duce la erori sau la funcționarea necorespunzătoare a funcționalităților personalizate.​ |  | x | 2 | 3 | 6 |
+| Există riscul unui eșec în actualizarea parolei, care ar putea bloca accesul utilizatorilor la conturile lor.​ |  | x | 3 | 3 | 9 |
+| Întârzierea în livrarea screen-urilor din pagina "My Account" ar putea afecta experiența utilizatorului.​ |  | x | 3 | 1 | 3 |
+| Un buget insuficient pentru dezvoltarea funcționalității "Preferences" ar putea limita capacitatea de a implementa complet această caracteristică.​ | x |  | 2 | 4 | 8 |
+| Resursele umane inadecvate pentru gestionarea notificărilor prin email ar putea duce la întârzieri sau la livrarea unor notificări incoerente.​ | x |  | 2 | 3 | 6 |
+| Vulnerabilitățile de securitate în ecranul "Preferences" pot să expună datele sensibile ale utilizatorilor la riscul de acces neautorizat sau de compromitere a securității.​ |  | x | 2 | 3 | 6 |
+| Incompatibilitatea cu selecția limbilor din meniul dropdown ar putea limita accesibilitatea aplicației pentru utilizatorii care preferă alte limbi.​ |  | x | 3 | 3 | 9 |
+| Posibile probleme de performanță la schimbarea limbii ar putea duce la întârzieri sau la încetiniri ale aplicației, afectând experiența utilizatorului.​ |  | x | 3 | 3 | 9 |
+
+
+
 
 
 
