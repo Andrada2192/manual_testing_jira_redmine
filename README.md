@@ -129,6 +129,17 @@ we plan on running a full regression test on the current version
 [Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/TestConditions.pdf)
 
 
+Risk Analysis - covers potential project and product risks that may arise during the testing process of the Redmine web application
+
+| Numele riscului | Risc de proiect   | Risc de produs   | Probabilitate | Impact | Risk level(Probabilitate x impact)​ |
+| :-----: | :---: | :---: | :---: | :---: | :---: |
+| Incompatibilitatea cu browserele ar putea duce la funcționarea necorespunzătoare a aplicației pe diverse platforme de navigare. |    | x   | 1 | 3 | 3 |
+| Posibile probleme de afișare a ecranului "Information" ar putea afecta experiența utilizatorului și ar putea necesita eforturi suplimentare pentru remediere. |   | x   | 3 | 5 | 15 |
+| Notificările de email nepotrivite ar putea genera confuzie sau disconfort utilizatorilor.​ |   | x   | 3 | 4 | 12 |
+
+
+
+
 ### 2.3 Test design
 -all the test cases are written and reviewed 
 
