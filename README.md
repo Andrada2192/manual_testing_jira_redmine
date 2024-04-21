@@ -181,12 +181,12 @@ Various periodic reports will be generated to reflect the current status of test
 
 
 ### 3.4 Daily test summary report
-#### Raportul generat in data de 11/07/2023 arata rularea a 10 test case-uri dintre care 3 failed si 1 blocked.
+#### The report generated on 11/07/2023 shows the execution of 10 test cases, out of which 3 failed and 1 was blocked.
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/daily%20rep%207noi%20(2).png)  
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/daily%20rep%207noi.png)
 
 
-#### Raportul generat in data de 11/09/2023 arata rularea a 12 test case-uri dintre care 4 failed.
+#### The report generated on 11/09/2023 shows the execution of 12 test cases, out of which 4 failed.
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/386886359_638780408179584_6632357104543974468_n.png)
 ![Daily report](https://github.com/Andrada2192/RedmineProject/blob/main/380826740_876341894084574_3891748152558190536_n.png)
 
