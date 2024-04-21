@@ -133,17 +133,17 @@ Risk Analysis - covers potential project and product risks that may arise during
 
 | Numele riscului | Risc de proiect   | Risc de produs   | Probabilitate | Impact | Risk level(Probabilitate x impact)​ |
 | :-----: | :---: | :---: | :---: | :---: | :---: |
-| Incompatibilitatea cu browserele ar putea duce la funcționarea necorespunzătoare a aplicației pe diverse platforme de navigare. |    | x   | 1 | 3 | 3 |
-| Posibile probleme de afișare a ecranului "Information" ar putea afecta experiența utilizatorului și ar putea necesita eforturi suplimentare pentru remediere. |   | x   | 3 | 5 | 15 |
-| Notificările de email nepotrivite ar putea genera confuzie sau disconfort utilizatorilor.​ |   | x   | 3 | 4 | 12 |
-| Preferințele neactualizate ale utilizatorilor ar putea duce la erori sau la funcționarea necorespunzătoare a funcționalităților personalizate.​ |  | x | 2 | 3 | 6 |
-| Există riscul unui eșec în actualizarea parolei, care ar putea bloca accesul utilizatorilor la conturile lor.​ |  | x | 3 | 3 | 9 |
-| Întârzierea în livrarea screen-urilor din pagina "My Account" ar putea afecta experiența utilizatorului.​ |  | x | 3 | 1 | 3 |
-| Un buget insuficient pentru dezvoltarea funcționalității "Preferences" ar putea limita capacitatea de a implementa complet această caracteristică.​ | x |  | 2 | 4 | 8 |
-| Resursele umane inadecvate pentru gestionarea notificărilor prin email ar putea duce la întârzieri sau la livrarea unor notificări incoerente.​ | x |  | 2 | 3 | 6 |
-| Vulnerabilitățile de securitate în ecranul "Preferences" pot să expună datele sensibile ale utilizatorilor la riscul de acces neautorizat sau de compromitere a securității.​ |  | x | 2 | 3 | 6 |
-| Incompatibilitatea cu selecția limbilor din meniul dropdown ar putea limita accesibilitatea aplicației pentru utilizatorii care preferă alte limbi.​ |  | x | 3 | 3 | 9 |
-| Posibile probleme de performanță la schimbarea limbii ar putea duce la întârzieri sau la încetiniri ale aplicației, afectând experiența utilizatorului.​ |  | x | 3 | 3 | 9 |
+| Incompatibility with browsers could lead to improper functioning of the application across various browsing platforms.. |    | x   | 1 | 3 | 3 |
+| Potential display issues with the 'Information' screen could impact the user experience and may require additional effort to resolve. |   | x   | 3 | 5 | 15 |
+| Unsuitable email notifications could lead to user confusion or discomfort.​ |   | x   | 3 | 4 | 12 |
+| Outdated user preferences could result in errors or improper functioning of personalized functionalities.​ |  | x | 2 | 3 | 6 |
+| There is a risk of password update failure, which could block users' access to their accounts.​ |  | x | 3 | 3 | 9 |
+| Delayed delivery of screens on the 'My Account' page could impact the user experience.​ |  | x | 3 | 1 | 3 |
+| An insufficient budget for developing the 'Preferences' functionality could limit the ability to fully implement this feature.​ | x |  | 2 | 4 | 8 |
+| Inadequate human resources for managing email notifications could lead to delays or the delivery of inconsistent notifications.​ | x |  | 2 | 3 | 6 |
+| Security vulnerabilities in the 'Preferences' screen may expose sensitive user data to the risk of unauthorized access or security compromise.​ |  | x | 2 | 3 | 6 |
+| Incompatibility with language selection in the dropdown menu could limit the accessibility of the application for users who prefer other languages.​ |  | x | 3 | 3 | 9 |
+| Potential performance issues when changing the language could lead to delays or slowdowns in the application, affecting the user experience.​ |  | x | 3 | 3 | 9 |
 
 
 
