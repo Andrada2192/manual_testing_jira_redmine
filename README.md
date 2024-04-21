@@ -92,14 +92,11 @@ Documentation: https://www.redmine.org/guide
 
 
 #### Entry criteria:
+- smoke test passed
+- testing environment is up and running
 - roles needed for the project are allocated
 - functional specifications are defined
 - completion of the software development phase
-- availability of the test environment
-- availability of test data
-- approval of test plans and test cases
-- resolution of critical defects
-- availability of test resources
 
 #### Exit criteria:
 - 100% tests from Functional testing were wxecuted and 58.33% are passed
