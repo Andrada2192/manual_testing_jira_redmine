@@ -107,25 +107,6 @@ Documentation: https://www.redmine.org/guide
 
 #### Risks:
 
-##### Product risks
-- stress conditions might impact the web application
-- new browser might not be supported
-
-##### Project risks
-- stability risks (crashes, disconnects, etc)
-- IE browser might have performance issues
-- the web page pagination could be impacted when opened on mobile devices
-
-
-### 2.2 Test analysis 
-Analyze the business requirements to make sure that we have all the details for creating the test conditions 
-Write test conditions (What?)
-we plan on running a full regression test on the current version
-
-
-[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/TestConditions.pdf)
-
-
 Risk Analysis - covers potential project and product risks that may arise during the testing process of the Redmine web application
 
 | Numele riscului | Risc de proiect   | Risc de produs   | Probabilitate | Impact | Risk level(Probabilitate x impact)​ |
@@ -143,9 +124,13 @@ Risk Analysis - covers potential project and product risks that may arise during
 | Potential performance issues when changing the language could lead to delays or slowdowns in the application, affecting the user experience.​ |  | x | 3 | 3 | 9 |
 
 
+### 2.2 Test analysis 
+Analyze the business requirements to make sure that we have all the details for creating the test conditions 
+Write test conditions (What?)
+we plan on running a full regression test on the current version
 
 
-
+[Test Conditions](https://github.com/Andrada2192/RedmineProject/blob/main/TestConditions.pdf)
 
 
 ### 2.3 Test design
