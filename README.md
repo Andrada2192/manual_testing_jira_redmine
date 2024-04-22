@@ -149,6 +149,7 @@ Test execution - provides an overview of how testing will be handled for the fea
 
 #### "Information"
 For this story 9 tests have been executed, resulting in the identification of 1 bug
+
 For ensuring comprehensive coverage of the "Information" feature, the following scenarios have been tested:
 - Verify if information screen is displayed in the "My account" area
 - Verify if information screen is displayed in the "My account" area
@@ -163,6 +164,7 @@ For ensuring comprehensive coverage of the "Information" feature, the following 
 
 #### "Password"  
 For this story 4 tests have been executed, resulting in the identification of 2 bugs
+
 For ensuring comprehensive coverage of the "Password" feature, the following scenarios have been tested:
 - Check that a user cannot set a new password containing less than 8 characters from My account page=>Change password
 - Check that when the new password is the same as the current one an error message is displayed on Change password page
@@ -172,6 +174,7 @@ For ensuring comprehensive coverage of the "Password" feature, the following sce
 
 #### "Email notifications"
 For this story 3 tests have been executed, no bugs have been reported
+
 For ensuring comprehensive coverage of the "Email notification" feature, the following scenarios have been tested:
 - Verify if first name can be updated when pressing save button from Information screen
 - Verify if first name can be updated when pressing save button from Information screen
@@ -180,6 +183,7 @@ For ensuring comprehensive coverage of the "Email notification" feature, the fol
 
 #### "Email address"
 For this story 2 tests have been executed, resulting in the identification of 2 bugs
+
 For ensuring comprehensive coverage of the "Email address" feature, the following scenarios have been tested:
 - Verify if first name can be updated when pressing save button from Information screen
 - Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
@@ -187,6 +191,7 @@ For ensuring comprehensive coverage of the "Email address" feature, the followin
 
 #### "Preferences"
 For this story 3 tests have been executed, resulting in the identification of 1 bug
+
 For ensuring comprehensive coverage of the "Preferences" feature, the following scenarios have been tested:
 - Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
 - Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
