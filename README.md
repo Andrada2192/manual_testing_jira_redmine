@@ -92,8 +92,6 @@ Documentation: https://www.redmine.org/guide
 
 
 #### Entry criteria:
-- smoke test passed
-- testing environment is up and running
 - roles needed for the project are allocated
 - functional specifications are defined
 - completion of the software development phase
@@ -111,9 +109,9 @@ Risk Analysis - covers potential project and product risks that may arise during
 
 | Numele riscului | Risc de proiect   | Risc de produs   | Probabilitate | Impact | Risk level(Probabilitate x impact)​ |
 | :-----: | :---: | :---: | :---: | :---: | :---: |
-| Incompatibility with browsers could lead to improper functioning of the application across various browsing platforms.. |    | x   | 1 | 3 | 3 |
-| Potential display issues with the 'Information' screen could impact the user experience and may require additional effort to resolve. |   | x   | 3 | 5 | 15 |
-| Unsuitable email notifications could lead to user confusion or discomfort.​ |   | x   | 3 | 4 | 12 |
+| Incompatibility with browsers could lead to improper functioning of the application across various browsing platforms.. |    | x | 1 | 3 | 3 |
+| Potential display issues with the 'Information' screen could impact the user experience and may require additional effort to resolve. |   | x | 3 | 5 | 15 |
+| Unsuitable email notifications could lead to user confusion or discomfort.​ |   | x | 3 | 4 | 12 |
 | Outdated user preferences could result in errors or improper functioning of personalized functionalities.​ |  | x | 2 | 3 | 6 |
 | There is a risk of password update failure, which could block users' access to their accounts.​ |  | x | 3 | 3 | 9 |
 | Delayed delivery of screens on the 'My Account' page could impact the user experience.​ |  | x | 3 | 1 | 3 |
@@ -146,15 +144,38 @@ Test suites are created (Cycle Summary was created)
 
 
 ### 2.5 Test execution
--All tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
 
--Completed GUI and functional testing
+Test execution - provides an overview of how testing will be handled for the features under "My Account" epic in the Redmine web application. This module includes functionalities like "Information", "Email notifications", "Email address", "Preferences" and "Password". Below are the details of testing activities conducted for each user story:
+
+#### "Information"
+- for this story 9 tests have been executed, resulting in the identification of 1 bug
+
+#### "Password"  
+- for this story 4 tests have been executed, resulting in the identification of 2 bugs
+
+#### "Email notifications"
+- for this story 3 tests have been executed, no bugs have been reported
+
+#### "Email address"
+- for this story 2 tests have been executed, resulting in the identification of 2 bugs
+
+#### "Preferences"
+- for this story 3 tests have been executed, resulting in the identification of 1 bug
+
+
+
+-Completed GUI and functional testing for all these features
 
 -Executed a number of 8 GUI tests, with the majority(7) resulting in a "pass" status, one of them having "fail" status
 
 -Executed a number of 11 functional tests, 6 of them resulting in a "pass" status, 4 of them having "fail" status and one being blocked
 
--Bugs will be created based on the failed test cases and reported and are currently undergoing remediation. After their resolution, retesting and regression testing will be performed
+-All bugs having medium and high priority are expected to be fixed in the current release version v1.0
+
+-All bugs will be reported and created based on the failed test cases and are currently undergoing remediation, after their resolution, retesting and regression testing will be performed
+
+-All tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
+
 
 
 ### 2.6 Test closure
