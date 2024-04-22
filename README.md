@@ -149,19 +149,48 @@ Test execution - provides an overview of how testing will be handled for the fea
 
 #### "Information"
 - for this story 9 tests have been executed, resulting in the identification of 1 bug
+For ensuring comprehensive coverage of the "Information" feature, the following scenarios have been tested:
+- Verify if information screen is displayed in the "My account" area
+- Verify if information screen is displayed in the "My account" area
+- Verify that mandatory fields from My account menu are marked accordingly
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+
 
 #### "Password"  
 - for this story 4 tests have been executed, resulting in the identification of 2 bugs
+For ensuring comprehensive coverage of the "Password" feature, the following scenarios have been tested:
+- Check that a user cannot set a new password containing less than 8 characters from My account page=>Change password
+- Check that when the new password is the same as the current one an error message is displayed on Change password page
+- Check that hide/show icon functionality from password field from My account-"change password" is working properly
+- Check that when the "Confirmation" field password from change password page is different than the one from "New password" field, an error will be displayed
+
 
 #### "Email notifications"
 - for this story 3 tests have been executed, no bugs have been reported
+For ensuring comprehensive coverage of the "Email notification" feature, the following scenarios have been tested:
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+- Verify if first name can be updated when pressing save button from Information screen
+
 
 #### "Email address"
 - for this story 2 tests have been executed, resulting in the identification of 2 bugs
+For ensuring comprehensive coverage of the "Email address" feature, the following scenarios have been tested:
+- Verify if first name can be updated when pressing save button from Information screen
+- Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
+
 
 #### "Preferences"
 - for this story 3 tests have been executed, resulting in the identification of 1 bug
-
+For ensuring comprehensive coverage of the "Preferences" feature, the following scenarios have been tested:
+- Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
+- Check that user is redirected to Email address page when pressing on "E-Mails" link from My account page
+- Check that user account can be updated when non-mandatory fields are left empty
 
 
 -Completed GUI and functional testing for all these features
@@ -175,7 +204,6 @@ Test execution - provides an overview of how testing will be handled for the fea
 -All bugs will be reported and created based on the failed test cases and are currently undergoing remediation, after their resolution, retesting and regression testing will be performed
 
 -All tests will be executed on the following browsers: Chrome and IE if time will be available we will extend tests on Mozilla and Brave browsers
-
 
 
 ### 2.6 Test closure
